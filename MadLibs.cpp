@@ -73,7 +73,7 @@ int main() {
         << "Every day, " << name << " would " << verb << " through the " << place << ", looking for " << pluralNoun << " to " << verb2 << ". "
         << "One day, " << name << " found a " << adjective2 << " " << noun << " that looked like it might be a " << adjective3 << " treasure. "
         << "Excited, " << name << " decided to " << verb3 << " it back home. Along the way, they ran into a " << adjective3 << " " << animal2 << " who was very " << emotion << ". "
-        << "The animal said, “I am searching for " << pluralNoun2 << ". Will you help me?" " After a long " << noun << ", "
+        << "The animal said, â€œI am searching for " << pluralNoun2 << ". Will you help me?" " After a long " << noun << ", "
         << name << " and the animal decided to " << verb4 << " together. They found the " << adjective4 << " " << noun2 << ", "
         << "and it turned out to be full of " << pluralNoun3 << "! They both laughed and agreed that it had been the most " << adjective4 << " adventure of their lives.\n";
 
